@@ -12,3 +12,4 @@ pytest-xdist==3.6.1
 swagger-coverage-tool==0.31.0
 pytest-order
 SQLAlchemy==2.0.41
+confluent-kafka
